@@ -3,10 +3,10 @@
 你也是会OI的Friends呢！
 
 # 广告！
-乌鲁木齐市一中的同学正在征集OJ名字，详情请见[这里](https://github.com/KSkun/qwq-ism-Friends/blob/master/%E5%BE%81%E5%90%8D%E8%AE%A1%E5%88%92.pdf)！
+乌鲁木齐市一中的同学正在征集OJ名字，详情请见[这里](%E5%BE%81%E5%90%8D%E8%AE%A1%E5%88%92.pdf)！
 
 # qwq教友链集合
-可以查看本md的src以获得链接。欢迎发Pull Request来添加自己的网站qwq！
+可以查看本md的Raw以获得链接。欢迎发Pull Request来添加自己的网站qwq！
 
 *本列表排名不分先后顺序*
 
