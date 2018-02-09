@@ -23,6 +23,7 @@
 - cxy | [Ying&CXY's Blog](https://chenxinyucxy.github.io/)
 - HT008 | [HT008的BLOG](http://ht008.pw/)
 - lw uc震惊部部长 | [那一抹落日的橙 - 博客园](https://www.cnblogs.com/Loi-dfkdsmbd/)
+- Youngsc | [Youngsc](http://youngsc.ml/)
 
 **友谊是魔法！** 
 
