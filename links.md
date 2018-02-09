@@ -1,4 +1,5 @@
-![toutu](https://ksmeow.moe/wp-content/uploads/2017/07/61538563_p1-1.jpg)
+![toutu](friends.jpg)
+
 你也是会OI的Friends呢！
 
 # 广告！
@@ -6,6 +7,7 @@
 
 # qwq教友链集合
 可以查看本md的src以获得链接。欢迎发Pull Request来添加自己的网站qwq！
+
 *本列表排名不分先后顺序*
 
 - swttc | [swttc'sblog](http://www.swttc.me/)
@@ -22,4 +24,6 @@
 - HT008 | [HT008的BLOG](http://ht008.pw/)
 - lw uc震惊部部长 | [那一抹落日的橙 - 博客园](https://www.cnblogs.com/Loi-dfkdsmbd/)
 
-**友谊是魔法！** 未完待续~
+**友谊是魔法！** 
+
+未完待续~
