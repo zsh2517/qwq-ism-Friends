@@ -24,6 +24,7 @@
 - HT008 | [HT008的BLOG](http://ht008.pw/)
 - lw uc震惊部部长 | [那一抹落日的橙 - 博客园](https://www.cnblogs.com/Loi-dfkdsmbd/)
 - Youngsc | [Youngsc](http://youngsc.ml/)
+- 阿尔扎诺帝国魔术学院 gjc | [lonlyn - 博客园](http://www.cnblogs.com/gjc1124646822/)
 
 **友谊是魔法！** 
 
