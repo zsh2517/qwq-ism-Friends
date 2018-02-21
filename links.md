@@ -2,9 +2,6 @@
 
 你也是会OI的Friends呢！
 
-# 广告！
-乌鲁木齐市一中的同学正在征集OJ名字，详情请见[这里](%E5%BE%81%E5%90%8D%E8%AE%A1%E5%88%92.pdf)！
-
 # Codeforces！
 qwq神教有CF Team的，可以联系KSkun、applese或者其他在team里的人拉一下qwq
 
