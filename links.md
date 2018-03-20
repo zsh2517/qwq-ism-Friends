@@ -1,4 +1,4 @@
-![toutu](friends.jpg)
+![banner](friends.jpg)
 
 你也是会OI的Friends呢！
 
@@ -16,15 +16,16 @@ qwq神教有CF Team的，可以联系KSkun、applese或者其他在team里的人
 - Von Hyou | [Page 1 | Vonhyou!!](http://von-hyou.pub/)
 - Dedsecr | [Dedsecr's Blog](http://dedsecr.ml/)
 - KSkun | [KSkun's Blog | more than OIers and algorithm learners](https://ksmeow.moe/)
-- RQY | [_rqy - 博客园](http://www.cnblogs.com/y-clever)
+- RQY | [\_rqy's Blog](https://rqy.coding.me/)
 - Margatroid | [Margatroid's Blog](http://margatroid.xyz/)
 - Kamigen | [超时空灰狼菌 - 博客园](https://www.cnblogs.com/shingen)
 - Wahacer | [Wahacer's blogs – 曾经沧海难为水](http://www.wahacer.com/)
 - cxy | [Ying&CXY's Blog](https://chenxinyucxy.github.io/)
 - HT008 | [HT008的BLOG](http://ht008.pw/)
-- lw uc震惊部部长 | [那一抹落日的橙 - 博客园](https://www.cnblogs.com/Loi-dfkdsmbd/)
+- lw uc震惊部部长 | [Dfkdsmbd'blog – 来自sd的可爱菜鸡](http://dfkdsmbd.cc/)
 - Youngsc | [Youngsc](http://youngsc.ml/)
 - 阿尔扎诺帝国魔术学院 gjc | [lonlyn - 博客园](http://www.cnblogs.com/gjc1124646822/)
+- Cansult | [Cansult](https://www.cansult.ga/)
 
 **友谊是魔法！** 
 
