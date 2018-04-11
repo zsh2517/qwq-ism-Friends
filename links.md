@@ -26,6 +26,7 @@ qwq神教有CF Team的，可以联系KSkun、applese或者其他在team里的人
 - Youngsc | [Youngsc](http://youngsc.ml/)
 - 阿尔扎诺帝国魔术学院 gjc | [lonlyn - 博客园](http://www.cnblogs.com/gjc1124646822/)
 - Cansult | [Cansult](https://www.cansult.ga/)
+- ZlycerQan | [ZlycerQan.](https://www.zlycerqan.xyz/)
 
 **友谊是魔法！** 
 
