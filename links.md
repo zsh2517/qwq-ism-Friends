@@ -16,7 +16,7 @@ qwq神教有CF Team的，可以联系KSkun、applese或者其他在team里的人
 - Von Hyou | [Page 1 | Vonhyou!!](http://von-hyou.pub/)
 - Dedsecr | [Dedsecr's Blog](http://dedsecr.ml/)
 - KSkun | [KSkun's Blog | more than OIers and algorithm learners](https://ksmeow.moe/)
-- RQY | [\_rqy's Blog](https://rqy.coding.me/)
+- RQY | [\_rqy's Blog](https://rqy.moe/)
 - Margatroid | [Margatroid's Blog](http://margatroid.xyz/)
 - Kamigen | [超时空灰狼菌 - 博客园](https://www.cnblogs.com/shingen)
 - Wahacer | [Wahacer's blogs – 曾经沧海难为水](http://www.wahacer.com/)
